@@ -1,0 +1,12 @@
+#photo1{
+    background-image: url(Zakir.jpg);
+    width: 100px;
+    background-position: center;
+    background-size: cover;
+}
+#photoall{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+}
